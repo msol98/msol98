@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hey! 👋 I’m a **Frontend Developer** with **5 years of experience** building modern web applications with **Angular** and **React**.<br><br>- 🛠️ **Tech stack:** JavaScript (ES6+), TypeScript, Angular, React, HTML5, CSS3, Sass.<br>- 📕 **Currently learning:** Advanced testing practices, robust state management patterns, and performance optimization in React<br>- 🚀 **Recent projects:** A real-time Chat app, Calculator, Stopwatch, and a Tic-Tac-Toe game built with React.<br>- 🌍 **Looking for:** Opportunities to join an international team where I can grow, write clean code, and contribute to meaningful products.<br>- 🤝 **Let’s connect:** [mina.soleimanzadeh@gmail.com] | [https://linkedin.com/in/msol98]<br>
-
+# 👩‍💻 About Me:
+Hey! 👋 I’m a **Frontend Developer** with **5 years of experience** building modern web applications with **Angular** and **React**.<br><br>- 🛠️ **Tech stack:** JavaScript (ES6+), TypeScript, Angular, React, HTML5, CSS3, Sass.<br>- 📕 **Currently learning:** Advanced testing practices, robust state management patterns, and performance optimization in React<br>- 🚀 **Recent projects:** A real-time Chat app, Calculator, Stopwatch, and a Tic-Tac-Toe game built with React.<br>- 🌍 **Looking for:** Opportunities to join an international team where I can grow, write clean code, and contribute to meaningful products.<br><br> 🤝 **Let’s Talk!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msol98) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13658446/msol98) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mina.soleimanzadeh@gmail.com) 
@@ -16,5 +15,5 @@ Hey! 👋 I’m a **Frontend Developer** with **5 years of experience** building
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=msol98&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=msol98&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=msol98&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
